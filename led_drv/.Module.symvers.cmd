@@ -1,0 +1,1 @@
+cmd_/home/yu/Project/linuxDrv/led_drv/Module.symvers := sed 's/\.ko$$/\.o/' /home/yu/Project/linuxDrv/led_drv/modules.order | scripts/mod/modpost     -o /home/yu/Project/linuxDrv/led_drv/Module.symvers -e -i Module.symvers   -T -

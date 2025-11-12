@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "tty.h": "c",
+        "unistd.h": "c",
+        "fs.h": "c"
+    }
+}

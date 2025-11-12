@@ -1,0 +1,1 @@
+cmd_/home/yu/Project/linuxDrv/led_drv/led_drv.ko := aarch64-none-linux-gnu-ld -r  -EL  -maarch64elf  --build-id=sha1  -T scripts/module.lds -o /home/yu/Project/linuxDrv/led_drv/led_drv.ko /home/yu/Project/linuxDrv/led_drv/led_drv.o /home/yu/Project/linuxDrv/led_drv/led_drv.mod.o;  make -f ./arch/arm64/Makefile.postlink /home/yu/Project/linuxDrv/led_drv/led_drv.ko

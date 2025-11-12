@@ -1,0 +1,1 @@
+cmd_/home/yu/Project/linuxDrv/drv_2/hello_drv.ko := aarch64-none-linux-gnu-ld -r  -EL  -maarch64elf  --build-id=sha1  -T scripts/module.lds -o /home/yu/Project/linuxDrv/drv_2/hello_drv.ko /home/yu/Project/linuxDrv/drv_2/hello_drv.o /home/yu/Project/linuxDrv/drv_2/hello_drv.mod.o;  make -f ./arch/arm64/Makefile.postlink /home/yu/Project/linuxDrv/drv_2/hello_drv.ko

@@ -1,0 +1,1 @@
+cmd_/home/yu/Project/linuxDrv/led_dts_drv/modules.order := {   echo /home/yu/Project/linuxDrv/led_dts_drv/led_dts_drv.ko; :; } | awk '!x[$$0]++' - > /home/yu/Project/linuxDrv/led_dts_drv/modules.order

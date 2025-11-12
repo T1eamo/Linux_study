@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/hello_test.dir/src/hello_drv_test.c.o  -o hello_test 

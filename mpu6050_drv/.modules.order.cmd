@@ -1,0 +1,1 @@
+cmd_/home/yu/Project/linuxDrv/mpu6050_drv/modules.order := {   echo /home/yu/Project/linuxDrv/mpu6050_drv/mpu6050_drv.ko; :; } | awk '!x[$$0]++' - > /home/yu/Project/linuxDrv/mpu6050_drv/modules.order
